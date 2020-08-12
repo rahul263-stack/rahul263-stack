@@ -10,7 +10,6 @@
 
 <div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul263-stack&layout=compact&hide=html,jupyter notebook&theme=tokyonight">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rahul263-stack&?count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
 </div>
 
