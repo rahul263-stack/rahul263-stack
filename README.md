@@ -42,3 +42,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul263-stack)](https://git.io/streak-stats)
 
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul263-stack)](https://github.com/rahul263-stack/github-readme-stats)
+
+
