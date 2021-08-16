@@ -40,4 +40,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul263-stack&label=Profile%20views&color=0e75b6&style=flat" alt="c17hawke" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rahul263-stackl263-stack&background=DD2727" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp./?user=rahul263-stack&
+  alt='rahul263-stack/></p>
