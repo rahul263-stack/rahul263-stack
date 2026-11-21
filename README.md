@@ -1,46 +1,66 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm Rahul</h1>
+# Hi, I'm Rahul 👋
 
-### I have technical experience and interest in -
-*Machine Learning
-*Data Science
-*Deep Learning
-* Computer vision 
-* Natural Language Processing 
+**Data Scientist building GenAI systems that hold up in production.** I design agentic and multi-RAG pipelines for healthcare, and I've shipped forecasting, search and LLM products for e-commerce.
 
+📍 Gurugram / Jaipur, India · Currently **Data Scientist at Cognitio Analytics**
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>   </p>
+### 💼 Experience
 
+**Cognitio Analytics** · *Data Scientist* · Feb 2025 – present
+- Architected and led an **agentic GenAI clinical coding system** on a multi-level RAG framework. Its hierarchical search mirrors expert coders and returns auditable, evidence-backed codes at **92%+ average accuracy**, with **85%+ of records coded automatically**.
+- Built an **automated annotation and onboarding pipeline**. Two manual steps (labelling, then validation) became coder validation of a random 25% sample, about **4× the throughput**. Client onboarding went from one month to one week (**−75%**) with **67% fewer people** needed.
+- Designed a **hybrid multi-RAG** clinical classifier: accuracy rose from **70%** with a single RAG to **90%+**.
+- *Stack: Python, PySpark, LLMs, vector databases, agentic AI, hybrid RAG*
 
+**ConvertCart** · *Data Scientist* · Nov 2023 – Feb 2025
+- **Demand forecasting engine** (hybrid LSTM) across multiple e-commerce clients: **95% accuracy** (MAPE ≈ 5%).
+- **Email send-time optimisation**: **+25% open rates**.
+- **Hybrid search + LLM chatbot** with RAG over enterprise knowledge bases.
+- **Churn prediction** at 85% accuracy. Retention outreach saved **25% of at-risk clients** and cut churn by **15%**.
+- *Stack: Python, PySpark, LSTM, LLMs, vector databases, hybrid RAG*
 
+**AlphaStream.ai** · *Member of Technical Staff (Intern)* · Aug 2022 – Aug 2023
+- Fine-tuned LLMs (BioMegatron, BERT) over **30 million biomedical papers**.
+- Built biomedical NER and relation extraction for entity-interaction graphs.
+- Built the Flask and Hugging Face backend for **DocuSearch**.
 
+---
 
-<!-- <hr>
+### 🛠️ Side projects
 
-<p><img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;154299027_702927223737487_3316660563751783251_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;EB4ZbXhG1MIAX_X7uls&amp;oh&#x3D;0f1962630e688514ffc312a6ef83d313&amp;oe&#x3D;60688FC2" /> <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;152823526_174537657553375_254380529862366324_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;O6xxL36t11IAX8-25ur&amp;oh&#x3D;6c28c16b56aa43f5bcd0a5cc9384ec28&amp;oe&#x3D;60411750" /> <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c149.0.781.781a&#x2F;s640x640&#x2F;152013126_4328412427197138_5736411879368288581_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;8f2IpAlp_OMAX_1scup&amp;oh&#x3D;e58960d73dbe0e8dd5ec0b79bfdadd83&amp;oe&#x3D;6066A23D" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/c17hawke/" target="_blank"><br>@c17hawke!</a> on Instagram</p>
+**ClaimSetu** · *working prototype*
+Hospital claims intelligence: catches avoidable insurer deductions before filing and builds appeals to recover the rest. It has a payer rules engine, a reviewer workflow ranked by expected recovery, and analytics and story-building for finance teams. Built with React, TypeScript, ECharts, Node.js and Express; the demo runs on about 400 synthetic claims.
 
-<hr> -->
+**Niryat** · *research and design stage*
+AI operations for Indian export trade compliance. It includes domain research across five regulated sectors, a platform architecture, and a Python pilot-audit tool that matches each shipment's chain of filings.
 
-#### You can also find me on- 
+---
 
-[<img align="left" alt="c17hawke | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+### ⭐ Open source
 
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Connectome Constellation**](https://github.com/rahul263-stack/living-literature-map) | Interactive 3D literature map of network neuroscience: 244 papers, 9 schools of thought and a local-LLM research copilot | React · TypeScript · Three.js · Ollama |
+| [**DocuSearch**](https://github.com/rahul263-stack/DocuSearch) | AI document search and retrieval over chunked documents with a vector database | Python · Flask · Hugging Face · Milvus |
+| [**Self-Driving-Car**](https://github.com/rahul263-stack/Self-Driving-Car) | End-to-end steering model based on NVIDIA's self-driving paper | TensorFlow · OpenCV |
+| [**Disaster-Response-Pipeline**](https://github.com/rahul263-stack/Disaster-Response-Pipeline) | ETL and NLP pipeline that classifies disaster messages for relief teams | Python · scikit-learn · Flask |
 
-<br>
+---
 
-<hr>
+### 🧰 Toolkit
 
-[linkedin]:https://www.linkedin.com/in/rahul-kumar-1ba550190/
+**GenAI and ML:** LLMs, agentic AI, RAG and multi-RAG, fine-tuning, NLP, computer vision, time series, A/B testing
+**Frameworks:** PyTorch, TensorFlow, Hugging Face, LangChain, Flask, REST APIs
+**Data:** PostgreSQL, SQL Server, Oracle, PySpark, Airflow, Snowflake, Databricks, AWS Glue
+**Cloud and delivery:** AWS, GCP, Jenkins, CI/CD
+**Also:** Python, C++, TypeScript, React, Node.js
 
+🎓 B.Tech in Computer Science, Lovely Professional University (2019–2023) · Certifications (2021): TensorFlow Developer (Google), Data Scientist Nanodegree (Udacity), NLP Specialization (Coursera)
 
+---
 
+### 📫 Reach me
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul263-stack)](https://git.io/streak-stats)
-
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul263-stack)](https://github.com/rahul263-stack/github-readme-stats)
-
-
+🌐 [Portfolio](https://rahul263-stack.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/rahul-kumar-1ba550190/) · [rahulpathak263@gmail.com](mailto:rahulpathak263@gmail.com)
