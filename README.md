@@ -12,7 +12,7 @@
 - Architected and led an **agentic GenAI clinical coding system** on a multi-level RAG framework. Its hierarchical search mirrors expert coders and returns auditable, evidence-backed codes at **92%+ average accuracy**, with **85%+ of records coded automatically**.
 - Built an **automated annotation and onboarding pipeline**. Two manual steps (labelling, then validation) became coder validation of a random 25% sample, about **4× the throughput**. Client onboarding went from one month to one week (**−75%**) with **67% fewer people** needed.
 - Designed a **hybrid multi-RAG** clinical classifier: accuracy rose from **70%** with a single RAG to **90%+**.
-- Delivered **10+ deep-learning, NER and ML models** (regression and classification) and trained **small language models (SLMs)**, reaching **92%+ average schema accuracy** with an **80%+ encoding rate** across ICD-10-CM, MMA, ICD-10 WHO, ICNP and GMDN.
+- Delivered **10+ deep-learning, NER and ML models** (regression and classification) and trained **small language models (SLMs)**, reaching **92%+ average schema accuracy** with an **80%+ encoding rate** across ICD-10-CM, Malaysian Medical Association (MMA), ICD-10 WHO, ICNP and GMDN.
 - *Stack: Python, PySpark, LLMs, SLMs, deep learning, NER, vector databases, agentic AI, hybrid RAG*
 
 **ConvertCart** · *Data Scientist* · Nov 2023 – Feb 2025
