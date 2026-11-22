@@ -12,7 +12,8 @@
 - Architected and led an **agentic GenAI clinical coding system** on a multi-level RAG framework. Its hierarchical search mirrors expert coders and returns auditable, evidence-backed codes at **92%+ average accuracy**, with **85%+ of records coded automatically**.
 - Built an **automated annotation and onboarding pipeline**. Two manual steps (labelling, then validation) became coder validation of a random 25% sample, about **4× the throughput**. Client onboarding went from one month to one week (**−75%**) with **67% fewer people** needed.
 - Designed a **hybrid multi-RAG** clinical classifier: accuracy rose from **70%** with a single RAG to **90%+**.
-- *Stack: Python, PySpark, LLMs, vector databases, agentic AI, hybrid RAG*
+- Delivered **10+ deep-learning, NER and ML models** (regression and classification) and trained **small language models (SLMs)**, reaching **92%+ average schema accuracy** with an **80%+ encoding rate** across ICD-10-CM, MMA, ICD-10 WHO, ICNP and GMDN.
+- *Stack: Python, PySpark, LLMs, SLMs, deep learning, NER, vector databases, agentic AI, hybrid RAG*
 
 **ConvertCart** · *Data Scientist* · Nov 2023 – Feb 2025
 - **Demand forecasting engine** (hybrid LSTM) across multiple e-commerce clients: **95% accuracy** (MAPE ≈ 5%).
@@ -42,7 +43,7 @@ AI operations for Indian export trade compliance. It includes domain research ac
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**Connectome Constellation**](https://github.com/rahul263-stack/living-literature-map) | Interactive 3D literature map of network neuroscience: 244 papers, 9 schools of thought and a local-LLM research copilot | React · TypeScript · Three.js · Ollama |
+| [**Connectome Constellation**](https://github.com/rahul263-stack/living-literature-map) | General-purpose 3D literature map for any research field, with community detection and a local-LLM research copilot. Demo corpus: 244 network-neuroscience papers in 9 schools of thought | React · TypeScript · Three.js · Ollama |
 | [**DocuSearch**](https://github.com/rahul263-stack/DocuSearch) | AI document search and retrieval over chunked documents with a vector database | Python · Flask · Hugging Face · Milvus |
 | [**Self-Driving-Car**](https://github.com/rahul263-stack/Self-Driving-Car) | End-to-end steering model based on NVIDIA's self-driving paper | TensorFlow · OpenCV |
 | [**Disaster-Response-Pipeline**](https://github.com/rahul263-stack/Disaster-Response-Pipeline) | ETL and NLP pipeline that classifies disaster messages for relief teams | Python · scikit-learn · Flask |
